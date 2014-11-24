@@ -1,9 +1,8 @@
-96bf63eeda7bb909e7773354cb5859e0 *DESCRIPTION
+09d2ba8a490a4c9e0d5e96ec323c9853 *DESCRIPTION
 a2b52f0651e8d9e88c134274fceffb9e *NAMESPACE
 b5f0238dbe53663e0e3e6f89cf737dd0 *R/sunter.R
 1fb122e02727cd909e613a710a873468 *R/sunterpi.R
 6e1267d7698796226bbc3932a5bea07f *R/sunterpi2.R
-4248b7bd9cffefbc856d5342c662fd5f *doc/SunterSampling-manual.pdf
 cd6287771b446a6ec0283db36348628c *man/SunterSampling-package.Rd
 a19dea0603ab1fdf40fbefa999081bb9 *man/sunter.Rd
 0c97b69531f2143f1c29b8069847ef76 *man/sunterpi.Rd
